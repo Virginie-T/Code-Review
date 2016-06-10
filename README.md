@@ -38,6 +38,6 @@ Reading other people's code is the fastest way to learn, not only do you gain in
 
 As the person reviewing code, always phrase your issues in an open-minded way (avoid "this is bad code" type issues, they are useless) use questions and seek to understand.
 
-If you (think you) know a "better way" of solving a problem, phrase the issue as a question: e.g:
-"Would you consider using *this* here instead of *that* because of *xyz reason*...?"
+If you (think you) know a "better way" of solving a problem, phrase the issue as a question: e.g:              
+"Would you consider using ```this``` here instead of ```that``` because of ```xyz reason```...?"
 
