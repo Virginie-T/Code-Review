@@ -3,8 +3,8 @@ FAC8 - Week1 - Friday
 
 
 **Friday Schedule**         
-10:00 - 12:00 / Code reviews           
-12:00 - 13:00 / Respond to issues            
+10:00 - 11:30 / Code reviews           
+11:30 - 13:00 / Respond to issues            
 14:00 - 14:30 / Stop, Go, Continue             
 14:30 - 15:00 / Stop, Go, Continue review             
 15:00 - 15:30 / Upstairs project presentation  
