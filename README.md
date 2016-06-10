@@ -11,13 +11,20 @@ FAC8 - Week1 - Friday
 16:00 - 18:00 Project Presentations             
 
 
+
+
 ![](http://i.imgur.com/IC3cJde.png)               
 *Our goal is zero surprises ("WTF" moments) during code review.*
+
+
+
 
 **Learning to read code is at least as important as learning to write it.**
 **We must practice reading code and paying close attention to detail.**
 
 Reading other people's code is the fastest way to learn, not only do you gain insight into how other people solve a problem, you also gain experience in what makes code readable (and thus maintainable).
+
+
 
 ### Questions you should go through during the code review:
 
