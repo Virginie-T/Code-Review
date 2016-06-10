@@ -28,7 +28,7 @@ Reading other people's code is the fastest way to learn, not only do you gain in
 
 ### Questions you should go through during the code review:
 
-* Raise issues if you spot any gaps in clarity in the code or documentation.
+* Raise issues if you spot any gaps in clarity in the code or documentation (readme, comments,etc).
 * Is the file/project structure clear?
 * Does the commit history tell a coherent story?
 * Is the code "DRY" (i.e: limited repitition)
