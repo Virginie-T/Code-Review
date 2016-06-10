@@ -8,7 +8,7 @@ FAC8 - Week1 - Friday
 14:00 - 14:30 / Stop, Go, Continue             
 14:30 - 15:00 / Stop, Go, Continue review             
 15:00 - 15:30 / Upstairs project presentation  
-15:30 - 16:00 / Prepare the presentation 
+15:30 - 16:00 / Prepare the presentation             
 16:00 - 18:00 / Project Presentations             
                 
                 
